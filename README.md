@@ -8,15 +8,11 @@ View Eat-Da-Burger at Heroku Link:
 ## Installation
 To run the application locally, first clone this repository with the following command:
 1. git clone git@github.com:Taramd30/Burger.git
-
-Next, install the application dependencies:
 2. cd Burger
 3. npm install
-
-Finally, run the node server locally:
 4. node server.js
 
-Now, open the local application on port 3000 at the URL: http://localhost:8080/
+Now, open the local application on port 3306 at the URL: http://localhost:8080/
 
 ## Terminal 
 
